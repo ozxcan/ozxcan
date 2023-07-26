@@ -1,7 +1,8 @@
 # 💫 About Me:
-Evden calisiyorum.<br>Bana java hakkinda sorularinizi yazabilirsiniz.
+ ögrenciyim.<br>Bana java hakkinda sorularinizi yazabilirsiniz..
 
 
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ozcan-yemen-a2235426b) 
 
